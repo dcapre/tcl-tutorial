@@ -18,3 +18,27 @@ puts $a
 
 # We can also add escape sequences 
 puts "Hello\nWorld" ;# Creates a NewLine in between 
+
+puts "Line
+\ Continuation" ;# Continues line
+
+puts "Special characters \u005c" ;# Continues line
+
+# List of some known String Representations
+# ------------------------------------------------
+# \u0009    \t   TAB
+# \u000A    \n   NEWLINE
+# \u000B    \v   VERTICAL TAB
+# \u000C    \f   FORM FEED
+# \u000D    \r   CARRIAGE RETURN
+# \u0020         SPACE
+# \u005c    \    BACKSLASH
+# \u007b    {    OPEN BRACE
+# \u007d    }    CLOSE BRACE
+# \u0022    "    QUOTE
+# \u003b    ;    SEMICOLON
+# \u0024    $    DOLLAR
+# \u005b    [    OPEN BRACKET
+# \u005d    ]    CLOSE BRACKET
+# \u005c    \    BACKSLASH
+# \u0023    #    HASH
