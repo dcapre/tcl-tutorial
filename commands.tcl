@@ -40,5 +40,4 @@ puts "Special characters \u005c" ;# Continues line
 # \u0024    $    DOLLAR
 # \u005b    [    OPEN BRACKET
 # \u005d    ]    CLOSE BRACKET
-# \u005c    \    BACKSLASH
 # \u0023    #    HASH
